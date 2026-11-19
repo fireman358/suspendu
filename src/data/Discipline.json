@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Canyoning",
+    "icon": "Waves",
+    "active": true,
+    "color": "#78A860",
+    "order": 3,
+    "id": "6ab3955123b6b6122bf5c5f7",
+    "created_date": "2026-09-23T09:01:05.962000",
+    "updated_date": "2026-09-23T09:01:05.962000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "name": "Via Ferrata",
+    "icon": "Route",
+    "active": true,
+    "color": "#FF8C42",
+    "order": 2,
+    "id": "6ab3955123b6b6122bf5c5f6",
+    "created_date": "2026-09-23T09:01:05.962000",
+    "updated_date": "2026-09-23T09:01:05.962000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "name": "Spéléo",
+    "icon": "Mountain",
+    "active": true,
+    "color": "#4D8BE0",
+    "order": 1,
+    "id": "6ab3955123b6b6122bf5c5f5",
+    "created_date": "2026-09-23T09:01:05.962000",
+    "updated_date": "2026-09-23T09:01:05.962000",
+    "created_by_id": null,
+    "is_sample": false
+  }
+]

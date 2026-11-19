@@ -1,0 +1,118 @@
+[
+  {
+    "field_key": "geolocation",
+    "values": [],
+    "active": true,
+    "section": "topos",
+    "field_type": "geolocation",
+    "required": false,
+    "searchable": false,
+    "field_name": "Géolocalisation",
+    "order": 5,
+    "id": "6aa8f7645e5ee3a47e1aa889",
+    "created_date": "2026-09-15T07:44:36.403000",
+    "updated_date": "2026-09-15T07:44:36.403000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "field_key": "cave_name",
+    "values": [],
+    "active": true,
+    "section": "topos",
+    "field_type": "text",
+    "required": true,
+    "searchable": true,
+    "field_name": "Nom de la grotte",
+    "order": 4,
+    "id": "6aa8f7645e5ee3a47e1aa888",
+    "created_date": "2026-09-15T07:44:36.403000",
+    "updated_date": "2026-09-15T07:44:36.403000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "field_key": "city",
+    "values": [],
+    "active": true,
+    "section": "topos",
+    "field_type": "text",
+    "required": false,
+    "searchable": true,
+    "field_name": "Ville / Commune",
+    "order": 3,
+    "id": "6aa8f7645e5ee3a47e1aa887",
+    "created_date": "2026-09-15T07:44:36.403000",
+    "updated_date": "2026-09-15T07:44:36.403000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "field_key": "country",
+    "values": [],
+    "active": true,
+    "section": "topos",
+    "field_type": "text",
+    "required": false,
+    "searchable": true,
+    "field_name": "Pays",
+    "order": 2,
+    "id": "6aa8f7645e5ee3a47e1aa886",
+    "created_date": "2026-09-15T07:44:36.403000",
+    "updated_date": "2026-09-15T07:44:36.403000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "field_key": "document_type",
+    "values": [
+      {
+        "name": "Topo coupe",
+        "active": true,
+        "order": 1
+      },
+      {
+        "name": "Fiche équipement",
+        "active": true,
+        "order": 2
+      },
+      {
+        "name": "Descriptif",
+        "active": true,
+        "order": 3
+      },
+      {
+        "name": "Fiche matériel",
+        "active": true,
+        "order": 4
+      },
+      {
+        "name": "Accès",
+        "active": true,
+        "order": 5
+      },
+      {
+        "name": "Autre",
+        "active": true,
+        "order": 6
+      },
+      {
+        "name": "Topo plan",
+        "active": true,
+        "order": 6
+      }
+    ],
+    "active": true,
+    "section": "topos",
+    "field_type": "list",
+    "required": false,
+    "searchable": true,
+    "field_name": "Type de document",
+    "order": 1,
+    "id": "6aa8f7645e5ee3a47e1aa885",
+    "created_date": "2026-09-15T07:44:36.403000",
+    "updated_date": "2026-09-16T11:45:34.658000",
+    "created_by_id": null,
+    "is_sample": false
+  }
+]

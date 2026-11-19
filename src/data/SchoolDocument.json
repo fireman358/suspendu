@@ -1,0 +1,978 @@
+[
+  {
+    "discipline_name": "Spéléo",
+    "keywords": [],
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "author": "",
+    "resource_type": "",
+    "document_date": null,
+    "description": "",
+    "active": true,
+    "title": "Das Riesending",
+    "theme_ids": [
+      "6ab3a9cfaf8a62aefce93557"
+    ],
+    "external_link": "",
+    "theme_names": [
+      "Documentaire"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Das Riesending.mp4"
+      }
+    ],
+    "id": "6ab42898361d4d01dde0d86c",
+    "created_date": "2026-09-23T19:29:28.319000",
+    "updated_date": "2026-09-23T19:29:28.319000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "keywords": [],
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "author": "",
+    "resource_type": "",
+    "document_date": null,
+    "description": "",
+    "active": true,
+    "title": "Naica, la grotte aux cristaux géants",
+    "theme_ids": [
+      "6ab3a9cfaf8a62aefce93557"
+    ],
+    "external_link": "",
+    "theme_names": [
+      "Documentaire"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Naica, la grotte aux cristaux géants.mp4"
+      }
+    ],
+    "id": "6ab41e9b3319cf4bfc55204a",
+    "created_date": "2026-09-23T18:46:51.832000",
+    "updated_date": "2026-09-23T18:46:51.832000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "keywords": [],
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "author": "",
+    "resource_type": "",
+    "document_date": null,
+    "description": "",
+    "active": true,
+    "title": "Luc-Henri Fage - L’île aux Glaciers de Marbre (2015)",
+    "theme_ids": [
+      "6ab3a9cfaf8a62aefce93557"
+    ],
+    "external_link": "",
+    "theme_names": [
+      "Documentaire"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Luc-Henri Fage - L’île aux Glaciers de Marbre (2015) - WebDL x264 720p.mp4"
+      }
+    ],
+    "id": "6ab41911f24790c98bfcfdb7",
+    "created_date": "2026-09-23T18:23:13.898000",
+    "updated_date": "2026-09-23T18:23:13.898000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "keywords": [],
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "author": "",
+    "resource_type": "",
+    "document_date": null,
+    "description": "",
+    "active": true,
+    "title": "Luc-Henri Fage - Bornéo, la Mémoire des Grottes (2003)",
+    "theme_ids": [
+      "6ab3a9cfaf8a62aefce93557"
+    ],
+    "external_link": "",
+    "theme_names": [
+      "Documentaire"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Luc-Henri Fage - Bornéo, la Mémoire des Grottes (2003).mp4"
+      }
+    ],
+    "id": "6ab4116134eb003c3a7f5ab7",
+    "created_date": "2026-09-23T17:50:25.140000",
+    "updated_date": "2026-09-23T17:50:25.140000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "keywords": [],
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "author": "",
+    "resource_type": "",
+    "document_date": null,
+    "description": "",
+    "active": true,
+    "title": "Grottes, gouffres et abîmes",
+    "theme_ids": [
+      "6ab3a9cfaf8a62aefce93557"
+    ],
+    "external_link": "",
+    "theme_names": [
+      "Documentaire"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Grottes, gouffres et abîmes.mkv"
+      }
+    ],
+    "id": "6ab40dc87130affbc14ae0e0",
+    "created_date": "2026-09-23T17:35:04.277000",
+    "updated_date": "2026-09-23T17:35:04.277000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "keywords": [],
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "author": "",
+    "resource_type": "",
+    "document_date": null,
+    "description": "",
+    "active": true,
+    "title": "Inverse Everest_ The Deepest Descent - Journey into Earth's Uncharted Depths",
+    "theme_ids": [
+      "6ab3a9cfaf8a62aefce93557"
+    ],
+    "external_link": "",
+    "theme_names": [
+      "Documentaire"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Inverse Everest_ The Deepest Descent - Journey into Earth's Uncharted Depths.mp4"
+      }
+    ],
+    "id": "6ab408f3881e32d6a45024b8",
+    "created_date": "2026-09-23T17:14:27.296000",
+    "updated_date": "2026-09-23T17:14:27.296000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": null,
+    "keywords": [],
+    "discipline_id": null,
+    "author": "",
+    "resource_type": "",
+    "document_date": null,
+    "description": "",
+    "active": true,
+    "title": "Plongée souterraine",
+    "theme_ids": [
+      "6ab3d66cf58d3bf7f9e07a06"
+    ],
+    "external_link": "",
+    "theme_names": [
+      "Plongée souterraine"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Standards Plongée Souterraine _ Plan de Formation.pdf"
+      }
+    ],
+    "id": "6ab3d67d51b405f9bc41e792",
+    "created_date": "2026-09-23T13:39:09.351000",
+    "updated_date": "2026-09-23T13:39:09.351000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": null,
+    "keywords": [],
+    "discipline_id": null,
+    "author": "",
+    "resource_type": "",
+    "document_date": null,
+    "description": "",
+    "active": true,
+    "title": "Groupe d'études techniques EFS",
+    "theme_ids": [
+      "6ab3d533fe389606eeb657c3"
+    ],
+    "external_link": "",
+    "theme_names": [
+      "Groupe d'études techniques EFS"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "rappel.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "spelunca110_noeuds.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "mini_traxion.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "escalade_artif.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "coupe_corde.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "noeuds_jonction.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "le_kit.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "leds.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "spelunca_120.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "double_amarrage.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "sangles_spel109.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "pompe.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "conversion.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "degtyro.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "amarrages_en_plafond.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "rupt_frac.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "dyn.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "longes.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "echelle2.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "poulies.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "indy.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "marquage_materiel.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "770_connecteurs_legers72.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "stop.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "ped_croll.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "eq_perso.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "accidents_sans_agres.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "descendeur.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "get_spel118.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "leds2.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "les_longes_spelunca_107.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "vire.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "assurance.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "carbure.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "materiel_leger.pdf"
+      }
+    ],
+    "id": "6ab3d61e17174be9ca15a8f9",
+    "created_date": "2026-09-23T13:37:34.715000",
+    "updated_date": "2026-09-23T13:37:34.715000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "",
+    "keywords": [],
+    "discipline_id": "",
+    "author": "",
+    "resource_type": "",
+    "document_date": null,
+    "description": "",
+    "active": true,
+    "title": "Dossiers d'instruction",
+    "theme_ids": [
+      "6ab3d2e57335f81bd318c261"
+    ],
+    "external_link": "",
+    "theme_names": [
+      "Dossier d'instruction"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Topographie souterraine.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Spéléologues et chauves souris.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Spéléologie et médecine.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Spéléologie archéologie paléontologie et préhistoire.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Secourisme spéléo.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Prévention en spéléologie.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Photographie souterraine.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Orientation étude de cartes.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Organisation et fonctionnement de la FFS.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Modifications biologiques à l'effort en spéléologie.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Météorologie et spéléologie.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Les grands massifs karstiques de france.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Les expéditions spéléologiques françaises à l'étranger.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "La spéléologie hivernale.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "La protection du milieu souterrain.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "La pratique de la spéléologie et le droit.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Histoire de la spéléologie française.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Enseigner la spéléologie.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Eléments de karstologie.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Eléments de géologie.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Approche de la biospéologie.pdf"
+      }
+    ],
+    "id": "6ab3d3f4fd143861cc017e49",
+    "created_date": "2026-09-23T13:28:20.883000",
+    "updated_date": "2026-09-24T11:54:11.711000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "",
+    "keywords": [],
+    "discipline_id": "",
+    "author": "",
+    "resource_type": "",
+    "document_date": null,
+    "description": "",
+    "active": true,
+    "title": "Cahiers de l'EFS",
+    "theme_ids": [
+      "6ab3b5fb06bec676e2abd967"
+    ],
+    "external_link": "",
+    "theme_names": [
+      "Cahiers de l'EFS"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Cahier EFS n° spécial 1991 travaux acrobatiques.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Cahier EFS 18 L'éclairage en spéléologie.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Cahier EFS 17 la mort annoncée de la lampe acétylène.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Cahier EFS 16 incitation à la découverte et la connaissance du milieu souterrain.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Cahier EFS 15 les apprentissages moteurs sur agrès en spéléologie.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Cahier EFS 14 utilisation des techniques légères en spéléologie.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Cahier EFS 13 la dyneema.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Cahier EFS 12 la photo sous terre accessible à tous.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Cahier EFS 11 équipement cavités ancrages permanents.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Cahier EFS 10 la crue sous terre.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Cahier EFS 09 les techniques spéléologiques légères.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Cahier EFS 08 la spéléologie hivernale.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Cahier EFS 07 principe de karstologie physique.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Cahier EFS 06 spéléologie et archéologie.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Cahier EFS 05 les grandes rivières souterraines.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Cahier EFS 04 la spéléologie et la pédagogie.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Cahier EFS 02 cartographie orientation lecture de cartes.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Cahier EFS 01 compte rendu stage national scientifique 1987.pdf"
+      }
+    ],
+    "id": "6ab3b8680bc83878a394ff45",
+    "created_date": "2026-09-23T11:30:48.043000",
+    "updated_date": "2026-09-24T11:34:33.817000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": null,
+    "keywords": [],
+    "discipline_id": null,
+    "author": "",
+    "resource_type": "",
+    "document_date": null,
+    "description": "",
+    "active": true,
+    "title": "Cap Sud Ouest - Passion spéléologie (La Verna Esparros Aldène Kakouetta) (1080p).mp4",
+    "theme_ids": [
+      "6ab3a9cfaf8a62aefce93557"
+    ],
+    "external_link": "",
+    "theme_names": [
+      "Documentaire"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Cap Sud Ouest - Passion spéléologie (La Verna Esparros Aldène Kakouetta) (1080p).mp4"
+      }
+    ],
+    "id": "6ab3ae83f12b7f036d830ca0",
+    "created_date": "2026-09-23T10:48:35.979000",
+    "updated_date": "2026-09-23T10:48:35.979000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": null,
+    "keywords": [],
+    "discipline_id": null,
+    "author": "",
+    "resource_type": "",
+    "document_date": null,
+    "description": "",
+    "active": true,
+    "title": "BD",
+    "theme_ids": [
+      "6ab3a2fd6f867ac26e3d9b21"
+    ],
+    "external_link": "",
+    "theme_names": [
+      "Littérature"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Le Gouffre De Padirac - T03 - Retour Sur De Fabuleux Exploits.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Le Gouffre De Padirac - T01 - Le Gouffre De Padirac.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Le Gouffre De Padirac - T02 - L'invention d'une visite extraordinaire.pdf"
+      }
+    ],
+    "id": "6ab3a7360580886b2036d51b",
+    "created_date": "2026-09-23T10:17:26.569000",
+    "updated_date": "2026-09-23T10:17:26.569000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": null,
+    "keywords": [],
+    "discipline_id": null,
+    "author": "",
+    "resource_type": "",
+    "document_date": null,
+    "description": "",
+    "active": true,
+    "title": "Littérature",
+    "theme_ids": [
+      "6ab3a2fd6f867ac26e3d9b21"
+    ],
+    "external_link": "",
+    "theme_names": [
+      "Littérature"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Syllabus Sus-Pendus (Cuvelier-Drabben).pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "(Avancé) Cours de topographie.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Initiation à la géologie et à la topographie - Jean-Bernard Chaussier.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Manuel-brevet-B.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "(Débutant) La -Taupographie- Pour Les Nuls.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Marbach (anglais).pdf"
+      }
+    ],
+    "id": "6ab3a547b8af72ff677c2698",
+    "created_date": "2026-09-23T10:09:11.835000",
+    "updated_date": "2026-09-23T10:09:11.835000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": null,
+    "keywords": [],
+    "discipline_id": null,
+    "author": "",
+    "resource_type": "",
+    "document_date": null,
+    "description": "",
+    "active": true,
+    "title": "Littérature",
+    "theme_ids": [],
+    "external_link": "",
+    "theme_names": [],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Syllabus Sus-Pendus (Cuvelier-Drabben).pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "(Avancé) Cours de topographie.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Initiation à la géologie et à la topographie - Jean-Bernard Chaussier.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Manuel-brevet-B.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "(Débutant) La -Taupographie- Pour Les Nuls.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Marbach (anglais).pdf"
+      }
+    ],
+    "id": "6ab3a2cce93ccddfaa2a0d95",
+    "created_date": "2026-09-23T09:58:36.210000",
+    "updated_date": "2026-09-23T09:58:36.210000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": null,
+    "keywords": [],
+    "discipline_id": null,
+    "author": "",
+    "resource_type": "",
+    "document_date": null,
+    "description": "",
+    "active": true,
+    "title": "Littérature",
+    "theme_ids": [],
+    "external_link": "",
+    "theme_names": [],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Syllabus Sus-Pendus (Cuvelier-Drabben).pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "(Avancé) Cours de topographie.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Initiation à la géologie et à la topographie - Jean-Bernard Chaussier.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Manuel-brevet-B.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "(Débutant) La -Taupographie- Pour Les Nuls.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Marbach (anglais).pdf"
+      }
+    ],
+    "id": "6ab3a1796eac0d66fc3cdbdd",
+    "created_date": "2026-09-23T09:52:57.664000",
+    "updated_date": "2026-09-23T09:52:57.664000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": null,
+    "keywords": [],
+    "discipline_id": null,
+    "author": "",
+    "resource_type": "Vidéo",
+    "document_date": null,
+    "description": "",
+    "active": true,
+    "title": "Techniques de dégagements",
+    "theme_ids": [
+      "6ab39dcca7cb80773886a02a"
+    ],
+    "external_link": "",
+    "theme_names": [
+      "Techniques de dégagement"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Chapitre 1.3 - Le croll à croll.mp4"
+      },
+      {
+        "file_url": "",
+        "file_name": "Chapitre 1.1 - Grande longe.mp4"
+      },
+      {
+        "file_url": "",
+        "file_name": "Chapitre 1.2 - Le balancier pédale crollée.mp4"
+      }
+    ],
+    "id": "6ab39f28129732e224061d41",
+    "created_date": "2026-09-23T09:43:04.588000",
+    "updated_date": "2026-09-23T09:43:04.588000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": null,
+    "keywords": [],
+    "discipline_id": null,
+    "author": "",
+    "resource_type": "Vidéo",
+    "document_date": null,
+    "description": "On n'est pas des sorciers",
+    "active": true,
+    "title": "Le facteur de chute",
+    "theme_ids": [
+      "6ab18b66854a185e69efcf27"
+    ],
+    "external_link": "",
+    "theme_names": [
+      "Noeuds"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Comment calcule-t-on le facteur de chute .mp4"
+      }
+    ],
+    "id": "6ab39cb86cc6b447a5c41d05",
+    "created_date": "2026-09-23T09:32:40.935000",
+    "updated_date": "2026-09-23T09:35:09.078000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": null,
+    "keywords": [],
+    "discipline_id": null,
+    "author": "",
+    "resource_type": "",
+    "document_date": null,
+    "description": "",
+    "active": true,
+    "title": "Le facteur de chute",
+    "theme_ids": [],
+    "external_link": "",
+    "theme_names": [],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Comment calcule-t-on le facteur de chute .mp4"
+      }
+    ],
+    "id": "6ab39c5ad25952c35b6d9904",
+    "created_date": "2026-09-23T09:31:06.478000",
+    "updated_date": "2026-09-23T09:31:06.478000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": null,
+    "keywords": [],
+    "discipline_id": null,
+    "author": "",
+    "resource_type": "",
+    "document_date": null,
+    "description": "",
+    "active": true,
+    "title": "Le facteur de chute",
+    "theme_ids": [],
+    "external_link": "",
+    "theme_names": [],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Comment calcule-t-on le facteur de chute .mp4"
+      }
+    ],
+    "id": "6ab39be9e51d345dca0c5e1c",
+    "created_date": "2026-09-23T09:29:13.956000",
+    "updated_date": "2026-09-23T09:29:13.956000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": null,
+    "keywords": [],
+    "discipline_id": null,
+    "author": "",
+    "resource_type": "Manuel",
+    "document_date": null,
+    "description": "",
+    "active": true,
+    "title": "Noeuds",
+    "theme_ids": [
+      "6ab18b66854a185e69efcf27"
+    ],
+    "external_link": "",
+    "theme_names": [
+      "Noeuds"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Noeud de Chaise Double.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "NOEUDS - Manuel-brevet-B.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Noeud de Cabestan.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Noeud de Pêcheur Double.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Noeud de Demi-Cabestan - Clé de Mule & Noeud de Cabestan.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Noeud de Huit Triple.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Noeud de Chaise en simple.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Noeud de Huit Tricoté.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Noeud de Mickey.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Noeud de Huit-Fusion.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Noeud de Huit Directionnel - Noeud Romano.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Noeud Papillon Vrai & Faux - Noeud Polonais.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Noeud de Huit.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Noeud de Chaise en simple - Clés & Noeud de chaise en double.pdf"
+      }
+    ],
+    "id": "6ab39b076d1c2720e98f7f25",
+    "created_date": "2026-09-23T09:25:27.129000",
+    "updated_date": "2026-09-23T09:36:03.409000",
+    "created_by_id": null,
+    "is_sample": false
+  }
+]

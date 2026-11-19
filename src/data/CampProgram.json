@@ -1,0 +1,195 @@
+[
+  {
+    "camp_id": "6aae296c870dd2d96b3aea0b",
+    "date": "2026-10-30",
+    "title": "Grotte du Petit Siblot",
+    "activity_type": "speleo",
+    "grotte_name": "Grotte du Petit Siblot",
+    "grotte_id": "6accd426efcfed0f1aa25552",
+    "sortie_id": "6ae455339fa5096ac2ba0e21",
+    "location": "Ougney-Douvot — Doubs — France",
+    "departure_time": null,
+    "return_time": null,
+    "objective": null,
+    "description": null,
+    "level": null,
+    "max_participants": null,
+    "participants": [
+      {
+        "user_id": "6aae41fb02dc8d02b75d4858",
+        "name": "Membre 10",
+        "is_external": false
+      },
+      {
+        "user_id": "6ac359a468974623929074f6",
+        "name": "Jonathan",
+        "is_external": false
+      },
+      {
+        "user_id": "6aaefbb27168128116389f19",
+        "name": "Membre 14",
+        "is_external": false
+      },
+      {
+        "user_id": "6ac694607ac57877b21250c6",
+        "name": "Membre 17",
+        "is_external": false
+      },
+      {
+        "user_id": "6ade4a08bef4f48c36acadf4",
+        "name": "Membre 15",
+        "is_external": false
+      },
+      {
+        "user_id": "6ade4ce72f0fa0ba9b20afba",
+        "name": "Membre 19",
+        "is_external": false
+      },
+      {
+        "user_id": "6ade451013645156bc4880e1",
+        "name": "Membre 18",
+        "is_external": true
+      }
+    ],
+    "status": "confirmed",
+    "order": 0,
+    "id": "6ae455321d2e16d95321bc7f",
+    "created_date": "2026-10-30T08:28:34.747000",
+    "updated_date": "2026-10-30T08:28:35.401000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "camp_id": "6aae296c870dd2d96b3aea0b",
+    "date": "2026-10-28",
+    "title": "Rando le belvédère de la Gouille noire",
+    "activity_type": "autre",
+    "grotte_name": "",
+    "grotte_id": null,
+    "sortie_id": null,
+    "location": "",
+    "departure_time": null,
+    "return_time": null,
+    "objective": null,
+    "description": null,
+    "level": null,
+    "max_participants": null,
+    "participants": [
+      {
+        "user_id": "6aa8f5905e5ee3a47e1aa834",
+        "name": "Membre 16",
+        "is_external": false
+      },
+      {
+        "user_id": "6ac694607ac57877b21250c6",
+        "name": "Membre 17",
+        "is_external": false
+      },
+      {
+        "user_id": "6ade451013645156bc4880e1",
+        "name": "Membre 18",
+        "is_external": true
+      }
+    ],
+    "status": "confirmed",
+    "order": 0,
+    "id": "6ae1c0a7f2e9af508e3ea525",
+    "created_date": "2026-10-28T09:30:15.380000",
+    "updated_date": "2026-10-28T09:30:15.380000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "camp_id": "6aae296c870dd2d96b3aea0b",
+    "date": "2026-10-26",
+    "title": "Baudin",
+    "activity_type": "speleo",
+    "grotte_name": null,
+    "grotte_id": null,
+    "location": null,
+    "departure_time": null,
+    "return_time": null,
+    "objective": null,
+    "description": null,
+    "level": null,
+    "max_participants": null,
+    "participants": [
+      {
+        "user_id": "6aae41fb02dc8d02b75d4858",
+        "name": "Membre 10",
+        "is_external": false
+      },
+      {
+        "user_id": "6ab227b8f81494ba4a7eae3b",
+        "name": "Membre 21",
+        "is_external": false
+      },
+      {
+        "user_id": "6aaefbb27168128116389f19",
+        "name": "Membre 14",
+        "is_external": false
+      },
+      {
+        "user_id": "6ade4a08bef4f48c36acadf4",
+        "name": "Membre 15",
+        "is_external": false
+      }
+    ],
+    "status": "confirmed",
+    "order": 1,
+    "id": "6adefc835d3ab0ac42fdfbda",
+    "created_date": "2026-10-26T07:08:51.615000",
+    "updated_date": "2026-10-26T07:22:20.808000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "camp_id": "6aae296c870dd2d96b3aea0b",
+    "date": "2026-10-26",
+    "title": "Ouzène",
+    "activity_type": "speleo",
+    "grotte_name": null,
+    "grotte_id": null,
+    "location": null,
+    "departure_time": null,
+    "return_time": null,
+    "objective": null,
+    "description": null,
+    "level": null,
+    "max_participants": null,
+    "participants": [
+      {
+        "user_id": "6aa8f5905e5ee3a47e1aa834",
+        "name": "Membre 16",
+        "is_external": false
+      },
+      {
+        "user_id": "6ac359a468974623929074f6",
+        "name": "Jonathan",
+        "is_external": false
+      },
+      {
+        "user_id": "6ac694607ac57877b21250c6",
+        "name": "Membre 17",
+        "is_external": false
+      },
+      {
+        "user_id": "6ade451ff59ce8a8668c52c0",
+        "name": "Membre 20",
+        "is_external": true
+      },
+      {
+        "user_id": "6ade451013645156bc4880e1",
+        "name": "Membre 18",
+        "is_external": true
+      }
+    ],
+    "status": "confirmed",
+    "order": 0,
+    "id": "6ade44088eff1f66c5b74c46",
+    "created_date": "2026-10-25T18:01:44.711000",
+    "updated_date": "2026-10-26T08:33:27.999000",
+    "created_by_id": null,
+    "is_sample": false
+  }
+]

@@ -1,0 +1,1298 @@
+[
+  {
+    "grotte_id": "6ad9be9632c0844545b2e560",
+    "grotte_name": "Carrière de Sprimont",
+    "document_types": [
+      "Fiche équipement",
+      "Fiche matériel",
+      "Descriptif",
+      "Accès"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Carrière du Sprimont (Floreffe) 2026.pdf"
+      }
+    ],
+    "comment": "",
+    "metadata_values": {},
+    "active": true,
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6ad9beae24f8f8b91e1f9309",
+    "created_date": "2026-10-22T07:43:42.147000",
+    "updated_date": "2026-10-22T07:43:42.147000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "grotte_id": "6aae8d984e6abd66ef5e234a",
+    "grotte_name": "Chantoir de Ronsombeux",
+    "document_types": [
+      "Fiche équipement",
+      "Descriptif",
+      "Fiche matériel",
+      "Accès"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Chantoir de Ronsombeux 2026.pdf"
+      }
+    ],
+    "comment": "",
+    "metadata_values": {},
+    "active": true,
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6ad9bdec755f231062811bbc",
+    "created_date": "2026-10-22T07:40:28.006000",
+    "updated_date": "2026-10-22T07:40:28.006000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "document_types": [
+      "Descriptif",
+      "Topo coupe",
+      "Fiche équipement",
+      "Accès"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "33600.pdf"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Perte de Ia Vieille.Folle",
+    "grotte_id": "6ad0da9df0e76bc0a5522302",
+    "id": "6ad0dab64181c89ca5a1f977",
+    "created_date": "2026-10-15T13:52:54.741000",
+    "updated_date": "2026-10-15T13:52:54.741000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "document_types": [
+      "Fiche équipement",
+      "Descriptif",
+      "Accès",
+      "Topo plan"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Gours de Bouclans_page-0001.jpg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Grotte du Trésor",
+    "grotte_id": "6ad0ae33088bb94af7227ff7",
+    "id": "6ad0ae40a256f6272f206544",
+    "created_date": "2026-10-15T10:43:12.996000",
+    "updated_date": "2026-10-15T10:43:12.996000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "document_types": [
+      "Accès",
+      "Descriptif",
+      "Fiche équipement",
+      "Topo plan"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Gours de Bouclans_page-0001(1).jpg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Gour de Bouclans",
+    "grotte_id": "6ad0ac6f5c6eaeab0638006e",
+    "id": "6ad0ac817a0b4da2dea86c23",
+    "created_date": "2026-10-15T10:35:45.395000",
+    "updated_date": "2026-10-15T10:35:45.395000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "document_types": [
+      "Topo coupe",
+      "Fiche équipement",
+      "Descriptif",
+      "Accès"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Gouffre du Pré Rond_page-0001.jpg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Goulfre du Pré rond",
+    "grotte_id": "6ad08cf84298a557c9374adb",
+    "id": "6ad08d038827e4b2fc478099",
+    "created_date": "2026-10-15T08:21:23.239000",
+    "updated_date": "2026-10-15T08:21:23.239000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "document_types": [
+      "Topo coupe",
+      "Fiche équipement",
+      "Descriptif",
+      "Accès"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Gouffre du Pré Rond_page-0001(1).jpg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Goutlre du Puits de Poudry",
+    "grotte_id": "6ad08aee58cade14e9b73c90",
+    "id": "6ad08b0d57d32d8617c022e3",
+    "created_date": "2026-10-15T08:13:01.760000",
+    "updated_date": "2026-10-15T08:13:01.760000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "document_types": [
+      "Topo coupe",
+      "Fiche équipement",
+      "Descriptif",
+      "Accès"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Gouffre des Ages_page-0001.jpg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Goulfre du Bois d'UIIy",
+    "grotte_id": "6ad088b231b5e28028b068d1",
+    "id": "6ad088d26ccb5c00f90af0e6",
+    "created_date": "2026-10-15T08:03:30.009000",
+    "updated_date": "2026-10-15T08:03:30.009000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "document_types": [
+      "Topo coupe",
+      "Descriptif",
+      "Fiche équipement",
+      "Accès"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Gouffre des Ages_page-0001(1).jpg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Gou{fre des Ages",
+    "grotte_id": "6ad08313772532b80eb3f77a",
+    "id": "6ad0832144a6cc828277683f",
+    "created_date": "2026-10-15T07:39:13.107000",
+    "updated_date": "2026-10-15T07:39:13.107000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Via Ferrata",
+    "discipline_id": "6ab3955123b6b6122bf5c5f6",
+    "document_types": [
+      "Fiche équipement",
+      "Descriptif",
+      "Accès"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Gouffre des Ages_page-0001(2).jpg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Grotte de la Sarrazine",
+    "grotte_id": "6ad0805a3e6d9edcf4a43341",
+    "id": "6ad0811a879053c76664e5d0",
+    "created_date": "2026-10-15T07:30:34.823000",
+    "updated_date": "2026-10-15T07:30:34.823000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "document_types": [
+      "Topo coupe",
+      "Fiche équipement",
+      "Descriptif",
+      "Accès"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Gouffre de Vau_page-0001.jpg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Le gouflre du Brizon",
+    "grotte_id": "6ad07dc046b8a8f9d7f497d4",
+    "id": "6ad07dd446516ed094c3a545",
+    "created_date": "2026-10-15T07:16:36.113000",
+    "updated_date": "2026-10-15T07:16:36.113000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "document_types": [
+      "Topo coupe",
+      "Fiche équipement",
+      "Descriptif",
+      "Accès"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Gouffre de Vau_page-0001(1).jpg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Gouflre de Vau",
+    "grotte_id": "6acf581f5f0612635255364c",
+    "id": "6acf58384988a3bd2d302fdc",
+    "created_date": "2026-10-14T10:23:52.648000",
+    "updated_date": "2026-10-14T10:23:52.648000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "document_types": [
+      "Topo coupe",
+      "Fiche équipement",
+      "Descriptif",
+      "Accès"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Gouffre de Jérusalem_page-0001.jpg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Gouflre de Jérusalem",
+    "grotte_id": "6acf51533b9ff2b2e0c107fc",
+    "id": "6acf5178aceaaaf685f82a73",
+    "created_date": "2026-10-14T09:55:04.192000",
+    "updated_date": "2026-10-14T09:55:04.192000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "document_types": [
+      "Topo coupe",
+      "Fiche équipement",
+      "Descriptif",
+      "Accès"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Gouffre de Jérusalem_page-0001(3).jpg"
+      },
+      {
+        "file_url": "",
+        "file_name": "Gouffre de Jérusalem_page-0001(2).jpg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Gouflre du Naud",
+    "grotte_id": "6acf4fafb1330670cdd461f1",
+    "id": "6acf4fd036cdf96255c8807d",
+    "created_date": "2026-10-14T09:48:00.817000",
+    "updated_date": "2026-10-14T09:48:00.817000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "document_types": [
+      "Accès",
+      "Topo coupe",
+      "Fiche équipement",
+      "Descriptif"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Gouffre de Jérusalem_page-0001(1).jpg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Gouffre de la Combe de Malvaux",
+    "grotte_id": "6acf4a392f1793cc9dfe06ba",
+    "id": "6acf4a49d2bc611b82bae3ca",
+    "created_date": "2026-10-14T09:24:25.473000",
+    "updated_date": "2026-10-14T09:24:25.473000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "document_types": [
+      "Topo coupe",
+      "Fiche équipement",
+      "Accès",
+      "Descriptif"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Gouffre de Foyes_page-0001.jpg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Gouffre de Foye",
+    "grotte_id": "6accdac72f45c8b26a1bf0be",
+    "id": "6accdafe7c05790551784d37",
+    "created_date": "2026-10-12T13:05:02.847000",
+    "updated_date": "2026-10-12T13:05:02.847000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "document_types": [
+      "Topo coupe",
+      "Fiche équipement",
+      "Descriptif",
+      "Accès"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Gouffre de Foyes_page-0001(2).jpg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Gouffre des Ravières",
+    "grotte_id": "6accd806f04b8f42fbdaee56",
+    "id": "6accd84b3f95a21e9f9209fc",
+    "created_date": "2026-10-12T12:53:31.946000",
+    "updated_date": "2026-10-12T12:53:31.946000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "document_types": [
+      "Topo coupe",
+      "Fiche équipement",
+      "Descriptif",
+      "Accès"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Gouffre de Foyes_page-0001(1).jpg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Grotte du Petit Siblot",
+    "grotte_id": "6accd426efcfed0f1aa25552",
+    "id": "6accd450b1a55df898fdd1ef",
+    "created_date": "2026-10-12T12:36:32.268000",
+    "updated_date": "2026-10-12T12:36:32.268000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "document_types": [
+      "Fiche équipement",
+      "Topo coupe",
+      "Accès",
+      "Descriptif"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Gouffre de Chez les Veuves.pdf"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Gouffres de chez les Veuves",
+    "grotte_id": "6acccec4846f251b27daefc0",
+    "id": "6accced48f31403fd1c068f0",
+    "created_date": "2026-10-12T12:13:08.797000",
+    "updated_date": "2026-10-12T12:13:08.797000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "document_types": [
+      "Fiche équipement",
+      "Descriptif",
+      "Accès",
+      "Topo plan"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Gouffre de Chez les Veuves.pdf"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Grotte du chateau",
+    "grotte_id": "6acccc2b526e20e251b28404",
+    "id": "6acccc86bd619211643e8a53",
+    "created_date": "2026-10-12T12:03:18.625000",
+    "updated_date": "2026-10-12T12:03:18.625000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "document_types": [
+      "Fiche équipement",
+      "Topo plan",
+      "Accès",
+      "Descriptif"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Baume du Mont.pdf"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Grotte de Waroly",
+    "grotte_id": "6accc726c0619ec91b5b2583",
+    "id": "6accc740a244d44776a3cb5e",
+    "created_date": "2026-10-12T11:40:48.098000",
+    "updated_date": "2026-10-12T11:40:48.098000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Spéléo",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "document_types": [
+      "Descriptif",
+      "Accès",
+      "Fiche équipement",
+      "Topo plan"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Baume du Mont.pdf"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Baume du mont",
+    "grotte_id": "6accc479ae322af025b3666e",
+    "id": "6accc52a8064b38f63706882",
+    "created_date": "2026-10-12T11:31:54.298000",
+    "updated_date": "2026-10-12T11:31:54.298000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Fiche équipement",
+      "Descriptif",
+      "Accès",
+      "Autre"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Béron-Ry 2023 (Géry).doc"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Chantoir de Béron Ry",
+    "grotte_id": "6aae952d9e7c2697f56bbbfb",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae954251b95de42d7c754a",
+    "created_date": "2026-09-19T13:59:30.942000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Fiche équipement"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "La Besace 2023 (Géry).doc"
+      },
+      {
+        "file_url": "",
+        "file_name": "La Sonnette 2023 (Géry).doc"
+      },
+      {
+        "file_url": "",
+        "file_name": "L'Avenir 2023 (Géry).doc"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Carrière de Savonnière-en-Perthois",
+    "grotte_id": "6aae9346be77767329175ea8",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae941255835ae3b6bf5609",
+    "created_date": "2026-09-19T13:54:26.599000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Topo plan"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Rosombeux_plan.jpeg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Chantoir de Ronsombeux",
+    "grotte_id": "6aae8d984e6abd66ef5e234a",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae8db8f413de789d879894",
+    "created_date": "2026-09-19T13:27:20.271000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Fiche équipement",
+      "Descriptif",
+      "Accès",
+      "Autre"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Trou de l'Eglise  2024 (Géry).doc"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Trou de l'Eglise",
+    "grotte_id": "6aae8c6ad6d9d7bb1e606469",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae8c92f7c423feb2686be0",
+    "created_date": "2026-09-19T13:22:26.855000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Topo coupe",
+      "Topo plan"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Eglise-Coupe.jpeg.tif"
+      },
+      {
+        "file_url": "",
+        "file_name": "Eglise-Plan.jpeg.tif"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Trou de l'Eglise",
+    "grotte_id": "6aae8c6ad6d9d7bb1e606469",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae8c9245cd4edc41d787cb",
+    "created_date": "2026-09-19T13:22:26.617000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "discipline_name": "Via Ferrata",
+    "discipline_id": "6ab3955123b6b6122bf5c5f6",
+    "document_types": [
+      "Fiche équipement",
+      "Accès",
+      "Autre",
+      "Descriptif"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Grands Malades - escalade.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Grands Malades VF.pdf"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Via ferrata des Grands Malades",
+    "grotte_id": "6aae89247f10f5a9936a5c90",
+    "id": "6aae89a31c2afa86dab9848d",
+    "created_date": "2026-09-19T13:09:55.629000",
+    "updated_date": "2026-10-13T14:54:43.023000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Fiche équipement",
+      "Descriptif",
+      "Accès",
+      "Autre"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Trou du Chien 2025.pdf"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Grotte du Chien",
+    "grotte_id": "6aae8880fe048b7c93c6aae2",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae8894fd0002b9714ccba8",
+    "created_date": "2026-09-19T13:05:24.661000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Fiche équipement",
+      "Descriptif",
+      "Accès",
+      "Autre"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Galerie des sources 2025.pdf"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Galerie des sources",
+    "grotte_id": "6aae870d58e3a20a629a3003",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae87699358b0a51e5323bf",
+    "created_date": "2026-09-19T13:00:25.642000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Topo coupe",
+      "Topo plan"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Galerie des Sources.JPEG"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Galerie des sources",
+    "grotte_id": "6aae870d58e3a20a629a3003",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae87697f47bebe9f825af8",
+    "created_date": "2026-09-19T13:00:25.393000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Fiche équipement",
+      "Descriptif",
+      "Accès",
+      "Autre"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Abîme de Lesve 2025 (Géry).doc"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Abîme de Lesve",
+    "grotte_id": "6aae826d8d2f95b3eaf0b101",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae856af7c423feb267b2ab",
+    "created_date": "2026-09-19T12:51:54.019000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Topo coupe",
+      "Topo plan"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Coupe.jpg"
+      },
+      {
+        "file_url": "",
+        "file_name": "Plan.jpeg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Abîme de Lesve",
+    "grotte_id": "6aae826d8d2f95b3eaf0b101",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae8569f984a478acf59ebf",
+    "created_date": "2026-09-19T12:51:53.768000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Fiche équipement",
+      "Accès"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Fiche d_équipement Abime de Lesve.xlsx"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Abîme de Lesve",
+    "grotte_id": "6aae826d8d2f95b3eaf0b101",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae8569b754f687a52c7046",
+    "created_date": "2026-09-19T12:51:53.516000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Descriptif",
+      "Accès",
+      "Fiche équipement",
+      "Autre",
+      "Topo plan",
+      "Topo coupe"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Pourpevelle Topo Description 1 ok.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Pourpevelle Topo Description 2 ok.pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Pourpevelle Topo Description 3 ok.pdf"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Gouffre de Poupevelle",
+    "grotte_id": "6aae7f903e9fb2e639a4e58a",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae8038a786b5f8f41d8495",
+    "created_date": "2026-09-19T12:29:44.733000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Fiche équipement",
+      "Topo plan",
+      "Descriptif",
+      "Accès"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Gouffre de pourpevelle.pdf"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Gouffre de Poupevelle",
+    "grotte_id": "6aae7f903e9fb2e639a4e58a",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae8038729cb37db55631d7",
+    "created_date": "2026-09-19T12:29:44.493000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Fiche équipement",
+      "Descriptif",
+      "Autre",
+      "Accès"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Réseau de Frênes 2026 (Géry).pdf"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Réseau de Frênes",
+    "grotte_id": "6aae7c4f065043a949aee9d5",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae7c964e1f9ba042a40398",
+    "created_date": "2026-09-19T12:14:14.305000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Topo coupe",
+      "Topo plan"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Réseau de Frênes 2014.jpeg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Réseau de Frênes",
+    "grotte_id": "6aae7c4f065043a949aee9d5",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae7c79223a11b83f08e50a",
+    "created_date": "2026-09-19T12:13:45.436000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Fiche équipement",
+      "Descriptif",
+      "Autre",
+      "Accès"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Trou d'Haquin par la galerie de la Trompette 2025 (Géry).pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Trou d'Haquin par le trou du Triton 2026 (Géry).pdf"
+      },
+      {
+        "file_url": "",
+        "file_name": "Trou d'Haquin par l'entrée supérieure 2025 (Géry).pdf"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Trou d'Haquin",
+    "grotte_id": "6aae79593e2cb9b2965f215d",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae7a75e5b1fc9b736f7af4",
+    "created_date": "2026-09-19T12:05:09.253000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Topo plan"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Topo Haquin plan.pdf"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Trou d'Haquin",
+    "grotte_id": "6aae79593e2cb9b2965f215d",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae799f610fa51bed6a9bc5",
+    "created_date": "2026-09-19T12:01:35.614000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Fiche équipement",
+      "Descriptif",
+      "Accès",
+      "Autre",
+      "Topo coupe",
+      "Topo plan"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Puit aux lampes (Membre 19).docx"
+      },
+      {
+        "file_url": "",
+        "file_name": "Puits aux lampes 2023 (Géry).doc"
+      },
+      {
+        "file_url": "",
+        "file_name": "Plan_Coupe du topoguide.jpeg"
+      },
+      {
+        "file_url": "",
+        "file_name": "Plan_coupe détaillé SSN 2009.jpeg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Puits aux Lampes",
+    "grotte_id": "6aaa823cf9d7a99d3beb1abc",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae7869b847e8feb8f46db9",
+    "created_date": "2026-09-19T11:56:25.986000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Descriptif",
+      "Autre",
+      "Accès",
+      "Fiche équipement"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Trou des Charrues 2026 (Géry).pdf"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Trou des Charrues",
+    "grotte_id": "6aae74b04201765b0bc323b7",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae77416f4f3343b5c4a1e4",
+    "created_date": "2026-09-19T11:51:29.341000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Fiche équipement"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Fiche d_équipement Trou des charues.xlsx"
+      },
+      {
+        "file_url": "",
+        "file_name": "Plan Equipement.jpg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Trou des Charrues",
+    "grotte_id": "6aae74b04201765b0bc323b7",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae772b77dfbbb1831d207b",
+    "created_date": "2026-09-19T11:51:07.369000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Topo coupe",
+      "Topo plan"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Coupe.jpg"
+      },
+      {
+        "file_url": "",
+        "file_name": "Plan.jpg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Trou des Charrues",
+    "grotte_id": "6aae74b04201765b0bc323b7",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae7718fe4269692a017fa3",
+    "created_date": "2026-09-19T11:50:48.342000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Fiche équipement"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Fiche d_équipement Saint Anne.xlsx"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Grotte Sainte-Anne",
+    "grotte_id": "6aad5ef9acc4a4a9dbf927de",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae732306a23a8e27167c21",
+    "created_date": "2026-09-19T11:33:55.582000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Fiche équipement"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Fiche d'équipement Trou Bernard Number 2.xlsx"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Trou Bernard",
+    "grotte_id": "6aae4b197df1d5a4a5e21f1b",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae4ec65e2527464ec02c14",
+    "created_date": "2026-09-19T08:58:46.524000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Topo coupe"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Coupe+Plan+Number TWO.jpg"
+      },
+      {
+        "file_url": "",
+        "file_name": "Bernard.JPEG"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Trou Bernard",
+    "grotte_id": "6aae4b197df1d5a4a5e21f1b",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aae4bf109d0d153f8509d64",
+    "created_date": "2026-09-19T08:46:41.057000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "document_types": [
+      "Topo coupe",
+      "Topo plan"
+    ],
+    "files": [
+      {
+        "file_url": "",
+        "file_name": "Topo complète.jpg"
+      },
+      {
+        "file_url": "",
+        "file_name": "Coupe entrée.jpg"
+      },
+      {
+        "file_url": "",
+        "file_name": "Coupe fond.jpg"
+      },
+      {
+        "file_url": "",
+        "file_name": "Plan entrée.jpg"
+      },
+      {
+        "file_url": "",
+        "file_name": "Plan fond.jpg"
+      }
+    ],
+    "active": true,
+    "comment": "",
+    "metadata_values": {},
+    "grotte_name": "Grotte Sainte-Anne",
+    "grotte_id": "6aad5ef9acc4a4a9dbf927de",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aad5fe8a2f14c7ed7bd1408",
+    "created_date": "2026-09-18T15:59:36.149000",
+    "updated_date": "2026-09-23T09:01:13.579000",
+    "created_by_id": null,
+    "is_sample": false
+  }
+]

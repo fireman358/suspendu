@@ -1,0 +1,963 @@
+[
+  {
+    "title": "Grotte du Petit Siblot",
+    "sortie_date": "2026-10-30",
+    "cave_name": "Grotte du Petit Siblot",
+    "participants": "",
+    "participants_list": [
+      {
+        "user_id": null,
+        "name": "Membre 10",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 13",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 9",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 10",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 13",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 9",
+        "is_external": true,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 10",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      }
+    ],
+    "guest_participants": [],
+    "content": "",
+    "photos": [],
+    "grotte_id": "6accd426efcfed0f1aa25552",
+    "camp_id": "6aae296c870dd2d96b3aea0b",
+    "author_name": "Membre 13",
+    "author_id": null,
+    "participant_ids": [],
+    "country": "France",
+    "region": "Doubs",
+    "city": "Ougney-Douvot",
+    "development": "284",
+    "depth": "-64",
+    "club": "Les Sus'Pendus",
+    "departure_time": "2026-10-30T09:52:17.864Z",
+    "exit_time": "2026-10-30T13:20:00.000Z",
+    "duration_minutes": 208,
+    "sortie_groups": [],
+    "recit_fragments": [],
+    "status": "published",
+    "last_modified": "2026-10-30T16:52:44.826Z",
+    "discipline_id": "",
+    "discipline_name": "",
+    "id": "6ae455339fa5096ac2ba0e21",
+    "created_date": "2026-10-30T08:28:35.096000",
+    "updated_date": "2026-10-30T16:52:44.826000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "title": "Traversée du Verneau",
+    "sortie_date": "2026-10-29",
+    "cave_name": "Traversée du Verneau",
+    "participants": "",
+    "participants_list": [
+      {
+        "user_id": null,
+        "name": "Membre 10",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 13",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 9",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 10",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 13",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      }
+    ],
+    "guest_participants": [
+      {
+        "guest_id": "6ade451ff59ce8a8668c52c0",
+        "name": "Membre 11",
+        "first_name": "Membre 20",
+        "last_name": "",
+        "display_name": "",
+        "club_id": "6ade44fcc0bd784e502d3a7a",
+        "club_name": "Équipe Spéléo de Bruxelles",
+        "dms": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ],
+        "user_id": null
+      }
+    ],
+    "content": "",
+    "photos": [],
+    "grotte_id": "6ae2e4ff96e8fb015c3cd260",
+    "camp_id": "6aae296c870dd2d96b3aea0b",
+    "author_name": "Membre 13",
+    "author_id": null,
+    "participant_ids": [],
+    "country": "France",
+    "region": "Doubs",
+    "city": "",
+    "development": "8000 m",
+    "depth": "",
+    "club": "Les Sus'Pendus",
+    "departure_time": "2026-10-29T07:03:47.022Z",
+    "exit_time": "2026-10-29T20:00:00.000Z",
+    "duration_minutes": 776,
+    "sortie_groups": [],
+    "recit_fragments": [],
+    "status": "published",
+    "last_modified": "2026-10-30T14:59:12.343Z",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6ae2e51082261a7a12cefa87",
+    "created_date": "2026-10-29T06:17:52.151000",
+    "updated_date": "2026-10-30T14:59:12.499000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "title": "Borne aux Cassots",
+    "sortie_date": "2026-10-29",
+    "cave_name": "Borne aux Cassots",
+    "participants": "",
+    "participants_list": [
+      {
+        "user_id": null,
+        "name": "Membre 10",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 13",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 9",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      }
+    ],
+    "guest_participants": [
+      {
+        "guest_id": "6ade451013645156bc4880e1",
+        "name": "Membre 11",
+        "first_name": "Membre 18",
+        "last_name": "",
+        "display_name": "",
+        "club_id": "6ade44fcc0bd784e502d3a7a",
+        "club_name": "Équipe Spéléo de Bruxelles",
+        "dms": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ],
+        "user_id": null
+      }
+    ],
+    "content": "Nous sommes enthousiastes à l'idée de visiter cette grotte, une première pour nous tous ! Elle est un peu particulière puisqu'elle présente plus de dénivelé positif que négatif (-15m, +116m).\nL'entrée de la grotte est très grande, nous ouvrons la grille et entrons dans la première galerie., large et haute, nous avançons debout, puis un peu courbés. Cette entrée peut se remplir d'eau très rapidement en cas de pluie de 2 à 3h, la grotte est équipée d'une ligne de téléphone fixe et de réserves de nourriture et d'eau !\nNous suivons donc le fil du téléphone, montons une petite galerie un peu plus étroite, à 4 pattes, pour rejoindre le métro, une grande galerie avec une voûte arrondie, qui porte bien son nom!\n\nNous observons quelques chauve-souris dans l'entrée.\nAu bout de la galerie du métro, nous arrivons à la grande rivière, le niveau d'eau est très bas, nous continuons en crapahutant un entre la rivière et les abords de la rivière, jusqu'à atteindre la galerie des grands éboulis. Nous shuntons les 2 premiers grands éboulis grâce à une galerie qui passe sur le côté gauche. Très jolie, avec des strates de pierre horizontales, alternance de roche noire plus dure et de roche friable.\n\nPuis nous nous lançons dans l'escalade et la désescalade des grands éboulis, qui eux aussi portent bien leur nom ! Nous franchissons ainsi 6 grands éboulis, cela ressemble un peu à une promenade en montagne dans de grands pierriers. Nous progressons bien, nous arrêtons pour manger, et ateingnons le bout des éboulis  au bout de 2 heures de rando. Les murs scintillent ! On se dirait dans la galerie d'Alice au Pays des Merveilles !\n\nA cet endroit un énorme trou très profond, une main courante est équipée sur une vire à droite, pour rejoindre le réseau Alain. Nous allons y jeter un oeil et faisons demi-tour. Notre objectif du jour est atteint.\n\nNous repartons dans l'autre sens, je m'amuse assez bien dans les éboulis, mais certains en ont marre !!! Nous décidons de décerner une cheville d'or pour ceux qui termineront la sortie sans s'être tordu la cheville !\nLe retour se passe sans encombre, même chemin, nous profitons du retour pour explorer les petites galeries sur le côté, et découvrons une magnifique baignoire blanche, complètement vide, ainsi qu'une petite galerie en désob. \nSur le chemin du retour, nous trouvons aussi un shunt pour une échelle placée après le métro, ce qui nous ravis ! Nous faisons quelques photos et ressortons pile 5 heures après notre entrée dans la grotte.",
+    "photos": [],
+    "grotte_id": "6ae2df6afc7a4f861f1ac19c",
+    "camp_id": "6aae296c870dd2d96b3aea0b",
+    "author_name": "Membre 13",
+    "author_id": null,
+    "participant_ids": [],
+    "country": "France",
+    "region": "Jura",
+    "city": "Nevy-sur-Seille",
+    "development": "22152 m",
+    "depth": "-13 m",
+    "club": "Les Sus'Pendus",
+    "departure_time": "2026-10-29T10:08:08.971Z",
+    "exit_time": "2026-10-29T15:07:55.644Z",
+    "duration_minutes": 300,
+    "sortie_groups": [
+      {
+        "label": null,
+        "depth_reached": 13,
+        "tpst_minutes": null
+      }
+    ],
+    "recit_fragments": [
+      {
+        "text": "Nous sommes enthousiastes à l'idée de visiter cette grotte, une première pour nous tous ! Elle est un peu particulière puisqu'elle présente plus de dénivelé positif que négatif (-15m, +116m).\nL'entrée de la grotte est très grande, nous ouvrons la grille et entrons dans la première galerie., large et haute, nous avançons debout, puis un peu courbés. Cette entrée peut se remplir d'eau très rapidement en cas de pluie de 2 à 3h, la grotte est équipée d'une ligne de téléphone fixe et de réserves de nourriture et d'eau !\nNous suivons donc le fil du téléphone, montons une petite galerie un peu plus étroite, à 4 pattes, pour rejoindre le métro, une grande galerie avec une voûte arrondie, qui porte bien son nom!",
+        "created_date": "2026-10-30T08:51:09.616Z"
+      },
+      {
+        "text": "Nous observons quelques chauve-souris dans l'entrée.\nAu bout de la galerie du métro, nous arrivons à la grande rivière, le niveau d'eau est très bas, nous continuons en crapahutant un entre la rivière et les abords de la rivière, jusqu'à atteindre la galerie des grands éboulis. Nous shuntons les 2 premiers grands éboulis grâce à une galerie qui passe sur le côté gauche. Très jolie, avec des strates de pierre horizontales, alternance de roche noire plus dure et de roche friable.",
+        "created_date": "2026-10-30T08:54:50.555Z"
+      },
+      {
+        "text": "Puis nous nous lançons dans l'escalade et la désescalade des éboulis. Nous franchissons ainsi 6 grands éboulis, cela ressemble un peu à une promenade en montagne dans de grands pierriers. Nous progressons bien, nous arrêtons pour manger, et ateingnons le bout des éboulis  au bout de 2 heures de rando.",
+        "created_date": "2026-10-30T08:56:45.136Z"
+      },
+      {
+        "text": "A cet endroit c'est très profond, une main courante est équipée sur une vire à droite, pour rejoindre le réseau Alain. Nous allons y jeter un oeil et faisons demi-tour. Notre objectif du jour est atteint.",
+        "created_date": "2026-10-30T08:58:27.591Z"
+      },
+      {
+        "text": "Nous repartons dans l'autre sens, je m'amuse assez bien dans les éboulis, mais certains en ont marre !!! Nous décidons de décerner une cheville d'or pour ceux qui termineront la sortie sans s'être tordu la cheville !\nLe retour se passe sans encombre, même chemin, nous profitons du retour pour explorer les petites galeries sur le côté, et découvrons une magnifique baignoire blanche, complètement vide, ainsi qu'une petite galerie en désob. \nSur le chemin du retour, nous trouvons aussi un shunt pour une échelle placée après le métro, ce qui nous ravis ! Nous faisons quelques photos et ressortons pile 5 heures après notre entrée dans la grotte.",
+        "created_date": "2026-10-30T09:03:05.984Z"
+      }
+    ],
+    "status": "published",
+    "last_modified": "2026-10-30T09:05:18.883Z",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6ae2df6a05d88f5a7c487191",
+    "created_date": "2026-10-29T05:53:46.459000",
+    "updated_date": "2026-10-30T09:05:19.061000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "title": "Biefs-Boussets (part of Réseau Souterrain du Verneau)",
+    "sortie_date": "2026-10-28",
+    "cave_name": "Biefs-Boussets (part of Réseau Souterrain du Verneau)",
+    "participants": "",
+    "participants_list": [
+      {
+        "user_id": null,
+        "name": "Membre 10",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 13",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 9",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      }
+    ],
+    "guest_participants": [
+      {
+        "guest_id": "6ade451ff59ce8a8668c52c0",
+        "name": "Membre 11",
+        "first_name": "Membre 20",
+        "last_name": "",
+        "display_name": "",
+        "club_id": "6ade44fcc0bd784e502d3a7a",
+        "club_name": "Équipe Spéléo de Bruxelles",
+        "dms": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ],
+        "user_id": null
+      }
+    ],
+    "content": "",
+    "photos": [],
+    "grotte_id": "6ae1c93e7bef527dc6f803ba",
+    "camp_id": "6aae296c870dd2d96b3aea0b",
+    "author_name": "Membre 13",
+    "author_id": null,
+    "participant_ids": [],
+    "country": "France",
+    "region": "Bourgogne-Franche-Comté",
+    "city": "Nans-sous-Sainte-Anne",
+    "development": "32100 m",
+    "depth": "-387 m",
+    "club": "Les Sus'Pendus",
+    "departure_time": "2026-10-28T10:08:50.238Z",
+    "exit_time": "2026-10-28T15:53:30.704Z",
+    "duration_minutes": 345,
+    "sortie_groups": [
+      {
+        "label": null,
+        "depth_reached": 387,
+        "tpst_minutes": null
+      }
+    ],
+    "recit_fragments": [],
+    "status": "published",
+    "last_modified": "2026-11-03T06:41:58.016Z",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6ae1c93e42662715864a1b00",
+    "created_date": "2026-10-28T10:06:54.549000",
+    "updated_date": "2026-11-03T06:41:58.496000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "title": "Baudin",
+    "sortie_date": "2026-10-27",
+    "cave_name": "Baudin",
+    "participants": "",
+    "participants_list": [
+      {
+        "user_id": null,
+        "name": "Membre 10",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 13",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 9",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      }
+    ],
+    "guest_participants": [],
+    "content": "",
+    "photos": [],
+    "grotte_id": "6adefd3fa79743075dfdb39d",
+    "camp_id": "6aae296c870dd2d96b3aea0b",
+    "author_name": "Membre 13",
+    "author_id": null,
+    "participant_ids": [],
+    "country": "France",
+    "region": "Doubs",
+    "city": "",
+    "development": "",
+    "depth": "",
+    "club": "Les Sus'Pendus",
+    "departure_time": "2026-10-27T09:20:48.449Z",
+    "exit_time": "2026-10-27T18:42:53.347Z",
+    "duration_minutes": 562,
+    "sortie_groups": [],
+    "recit_fragments": [],
+    "status": "published",
+    "last_modified": "2026-10-29T21:48:12.463Z",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6ae06829cd91d607700ae874",
+    "created_date": "2026-10-27T09:00:25.366000",
+    "updated_date": "2026-10-29T21:48:12.615000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "title": "Grotte des cavottes",
+    "sortie_date": "2026-10-27",
+    "cave_name": "Grotte des cavottes",
+    "participants": "",
+    "participants_list": [
+      {
+        "user_id": null,
+        "name": "Membre 10",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 13",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 9",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 10",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 13",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      }
+    ],
+    "guest_participants": [
+      {
+        "guest_id": "6ade451ff59ce8a8668c52c0",
+        "name": "Membre 11",
+        "first_name": "Membre 20",
+        "last_name": "",
+        "display_name": "",
+        "club_id": "6ade44fcc0bd784e502d3a7a",
+        "club_name": "Équipe Spéléo de Bruxelles",
+        "dms": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ],
+        "user_id": null
+      },
+      {
+        "guest_id": "6ade451013645156bc4880e1",
+        "name": "Membre 12",
+        "first_name": "Membre 18",
+        "last_name": "",
+        "display_name": "",
+        "club_id": "6ade44fcc0bd784e502d3a7a",
+        "club_name": "Équipe Spéléo de Bruxelles",
+        "dms": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ],
+        "user_id": null
+      }
+    ],
+    "content": "",
+    "photos": [],
+    "grotte_id": "6ae063eb70e88014dd052f5a",
+    "camp_id": "6aae296c870dd2d96b3aea0b",
+    "author_name": "Membre 13",
+    "author_id": null,
+    "participant_ids": [],
+    "country": "France",
+    "region": "Doubs",
+    "city": "Montrond-le-Château",
+    "development": "3549 m",
+    "depth": "-128 m",
+    "club": "Les Sus'Pendus",
+    "departure_time": "2026-10-27T09:52:09.169Z",
+    "exit_time": "2026-10-27T14:51:09.412Z",
+    "duration_minutes": 299,
+    "sortie_groups": [
+      {
+        "label": null,
+        "depth_reached": 128,
+        "tpst_minutes": null
+      }
+    ],
+    "recit_fragments": [],
+    "status": "published",
+    "last_modified": "2026-10-30T03:52:29.238Z",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6ae063eb02200b9465fe5398",
+    "created_date": "2026-10-27T08:42:19.434000",
+    "updated_date": "2026-10-30T03:52:29.406000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "title": "Gouffre d’Ouzène",
+    "sortie_date": "2026-10-26",
+    "cave_name": "Gouffre d’Ouzène",
+    "participants": "",
+    "participants_list": [
+      {
+        "user_id": null,
+        "name": "Membre 10",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Équipement",
+          "Déséquipement"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 13",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Équipement",
+          "Déséquipement"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 9",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Guide"
+        ]
+      }
+    ],
+    "guest_participants": [
+      {
+        "guest_id": "6ade451ff59ce8a8668c52c0",
+        "name": "Membre 11",
+        "first_name": "Membre 20",
+        "last_name": "",
+        "display_name": "",
+        "club_id": "6ade44fcc0bd784e502d3a7a",
+        "club_name": "Équipe Spéléo de Bruxelles",
+        "dms": false,
+        "group": 1,
+        "roles": [
+          "Guide",
+          "Équipement",
+          "Déséquipement"
+        ],
+        "user_id": null
+      },
+      {
+        "guest_id": "6ade451013645156bc4880e1",
+        "name": "Membre 12",
+        "first_name": "Membre 18",
+        "last_name": "",
+        "display_name": "",
+        "club_id": "6ade44fcc0bd784e502d3a7a",
+        "club_name": "Équipe Spéléo de Bruxelles",
+        "dms": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ],
+        "user_id": null
+      }
+    ],
+    "content": "Nous formons deux équipes pour équiper les puits d’entrée : Jonathan s'occupe du P15 sous la supervision de Membre 17, tandis que Membre 16 équipe le P28, secondée par Membre 18 et Membre 20.\n\nEn bas du P28, Membre 16 et son équipe remontent vers la galerie supérieure en utilisant une corde déjà en place. Membre 16 équipe la vire de cette galerie avec une main courante ; une véritable aventure ! Tout se passe bien malgré une glissade, sans peur ni mal grâce à la sécurité assurée par la poignée.\n\nPendant ce temps, Jonathan et Membre 17 équipent une seconde voie, rejoignent le fond du P28, puis équipent le P18 qui descend jusqu’à la salle inférieure. Ils remontent ensuite dans la galerie supérieure pour rejoindre le groupe de Membre 16, Membre 18 et Membre 20. Après un passage à quatre pattes, nous arrivons en haut du P6, que Membre 16 équipe. Nous atteignons ensuite le haut du P25 (noté P12). Membre 20 et Membre 17 passent devant ; Membre 20 s'occupe de l'équipement. Après un passage étroit et quelques réflexions, nous parvenons au fond.\n\nNous arrivons tous en bas sans souci. Nous formons de nouveau deux équipes pour la remontée. Membre 17, Membre 18 et Jonathan repartent par le chemin initial : Membre 18 déséquipe le puits du fond, puis Jonathan prend le relais et déséquipe la partie installée par Membre 16, à savoir la vire et les puits de sortie. Tout se passe bien.\n\nPendant ce temps, Membre 20 improvise une séance photo dans la grande salle : le volume est beau et les concrétions magnifiques. Membre 20 déséquipe le P18 puis rejoint l'équipe qui s'occupe de la vire. Membre 16 remonte et déséquipe le puits d’entrée initialement équipé par Jonathan. La sortie a lieu à 16h20. L’autre équipe suit un peu plus tard.\n\nC’était une chouette sortie, en particulier pour les apprentis équipeurs !",
+    "photos": [],
+    "grotte_id": "6adf1177f32379f8bc4f928b",
+    "camp_id": "6aae296c870dd2d96b3aea0b",
+    "author_name": "Membre 13",
+    "author_id": null,
+    "participant_ids": [],
+    "country": "France",
+    "region": "Doubs",
+    "city": "Tarcenay",
+    "development": "457 m",
+    "depth": "-62 m",
+    "club": "Les Sus'Pendus",
+    "departure_time": "2026-10-26T09:47:20.846Z",
+    "exit_time": "2026-10-26T16:13:13.245Z",
+    "duration_minutes": 386,
+    "sortie_groups": [
+      {
+        "label": null,
+        "depth_reached": 62,
+        "tpst_minutes": null
+      }
+    ],
+    "recit_fragments": [
+      {
+        "text": "Nous formons 2 équipes pour équiper les 2 puits d’entrée. Jonathan équipe le P15, sous la supervision de Membre 17. Membre 16 équipe le P28 sous la supervision de Membre 18. Membre 20 suit Membre 18. \nEn bas du P28, Membre 16 et son équipe remontent vers la galerie supérieure avec une corde déjà installée dans la grotte. Membre 16 équipe la vire de la galerie supérieure de avec une main courante, une aventure ! Tout se passe bien malgré une glissade. Ni peur ni mal grâce à la sécurité assurée par la poignée coiffée. \nPendant ce temps Jonathan et Membre 17 équipent une 2e voie , rejoignent le fond du P28, équipent le P18 qui descend au fond de la grotte jusqu’à la salle inférieure. Puis ils remontent dans la galerie supérieure et suivent le groupe de Membre 16, Membre 18 et Membre 20. Au bout de la galerie, un passage à quatre pattes, puis nous arrivons en haut du P6, que Membre 16 équipe . Nous arrivons en haut du P25, noté P12. Membre 20 et Membre 17 passent devant. Membre 20 équipe. Un petit passage étroit, quelques réflexions et nous atteignons le fond.",
+        "created_date": "2026-10-26T20:37:23.642Z"
+      },
+      {
+        "text": "Nous arrivons à tous en bas sans souci. Nous formons de nouveau 2 équipes . Membre 17 , Membre 18 et Jonathan remontent par là où nous sommes arrivés. Membre 18 desequipe le puits du fond puis Jonathan prend le relais et desequipe la partie équipée par Membre 16: la vire et le puits de sorties. Tout se passe bien.",
+        "created_date": "2026-10-26T20:46:19.042Z"
+      },
+      {
+        "text": "Pendant ce temps, Membre 20 improvise une séance photo dans la grande salle en bas, le volume est beau et les concrétions magnifiques.\nMembre 20 desequipe le P18 puis rejoins l’équipe qui desequipe la vire.\nMembre 16 remonte et desequipe le puis d’entrée équipé par Jonathan. Sortie 16h20. \nL’autre equipe suit un peu plus tard.\nChouette sortie, en particulier pour les apprentis équipeurs!",
+        "created_date": "2026-10-26T20:50:16.908Z"
+      }
+    ],
+    "status": "published",
+    "last_modified": "2026-10-30T08:30:16.407Z",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6adf1177f7af1581657cc2a1",
+    "created_date": "2026-10-26T08:38:15.914000",
+    "updated_date": "2026-10-30T08:30:16.550000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "title": "Baudin",
+    "sortie_date": "2026-10-26",
+    "cave_name": "Baudin",
+    "participants": "",
+    "participants_list": [
+      {
+        "user_id": null,
+        "name": "Membre 10",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 13",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 9",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 10",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 13",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      }
+    ],
+    "guest_participants": [],
+    "content": "",
+    "photos": [],
+    "grotte_id": "6adefd3fa79743075dfdb39d",
+    "camp_id": "6aae296c870dd2d96b3aea0b",
+    "author_name": "Membre 13",
+    "author_id": null,
+    "participant_ids": [],
+    "country": "France",
+    "region": "Doubs",
+    "city": "",
+    "development": "",
+    "depth": "",
+    "club": "Les Sus'Pendus",
+    "departure_time": "2026-10-26T09:33:49.178Z",
+    "exit_time": "2026-10-26T18:50:47.368Z",
+    "duration_minutes": 557,
+    "sortie_groups": [],
+    "recit_fragments": [],
+    "status": "published",
+    "last_modified": "2026-10-29T22:02:30.300Z",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6adefd40871160be59190fa2",
+    "created_date": "2026-10-26T07:12:00.835000",
+    "updated_date": "2026-10-29T22:02:30.455000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "title": "Grotte Sainte-Anne",
+    "sortie_date": "2026-10-09",
+    "cave_name": "Grotte Sainte-Anne",
+    "participants": "",
+    "participants_list": [
+      {
+        "user_id": null,
+        "name": "Membre 10",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 13",
+        "is_external": false,
+        "group": 1,
+        "roles": [
+          "Équipement",
+          "Déséquipement",
+          "Guide"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 9",
+        "is_external": true,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 10",
+        "is_external": true,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "user_id": null,
+        "name": "Membre 13",
+        "is_external": true,
+        "group": 1,
+        "roles": [
+          "Participant"
+        ]
+      }
+    ],
+    "guest_participants": [],
+    "content": "",
+    "photos": [],
+    "grotte_id": "6aad5ef9acc4a4a9dbf927de",
+    "camp_id": "",
+    "author_name": "Membre 13",
+    "author_id": null,
+    "participant_ids": [],
+    "country": "Belgium",
+    "region": "Wallonia",
+    "city": "Tilff",
+    "development": "1542 m",
+    "depth": "+ 35 m",
+    "club": "Les Sus'Pendus",
+    "departure_time": "",
+    "exit_time": "",
+    "duration_minutes": null,
+    "sortie_groups": [],
+    "recit_fragments": [],
+    "status": "published",
+    "last_modified": "2026-10-30T18:00:07.391Z",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6ac8ec6f9da32da9e47ea200",
+    "created_date": "2026-10-09T13:30:23.837000",
+    "updated_date": "2026-10-30T18:00:06.040000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "author_name": "Membre 13",
+    "country": "Belgium",
+    "development": "282 m",
+    "participant_ids": [],
+    "city": "Jemelle (Rochefort)",
+    "recit_fragments": [
+      {
+        "text": "Membre 21 et Membre 14 partent devant, ils équipent la grotte en double, le grand luxe !",
+        "created_date": "2026-09-21T19:04:04.782Z"
+      },
+      {
+        "text": "Fabrice suit de près les deux jeunes pour superviser l’équipement. \nLes autres membres de l’équipe suivent et disparaissent un par un dans le puit. \nJe ferme la marche.",
+        "created_date": "2026-09-21T19:07:54.314Z"
+      },
+      {
+        "text": "La descente se déroule sans souci, tout le monde se retrouve en bas, dans le grand espace que forme la salle principale.\nNous partons en exploration pour découvrir la petite salle cachée. Dans un premier temps nous pensions l’avoir identifiée mais c’était une fausse piste.\nNous ne ménageons pas nos efforts et finissons pas trouver le haut de la salle qui fait une quinzaine de mètres de hauteur. Mais nous ne trouvons pas l’entrée basse pour pouvoir pénétrer dans la salle. Nous devrons revenir ! \nRemontée sans difficulté particulière pour tout le monde, Jeronimo et Membre 16 desequipent les deux voies, sous la supervision bienveillante de Membre 14.",
+        "created_date": "2026-09-21T19:13:03.929Z"
+      }
+    ],
+    "participants_list": [
+      {
+        "name": "Membre 10",
+        "is_external": false,
+        "user_id": null,
+        "roles": [
+          "Déséquipement"
+        ]
+      },
+      {
+        "name": "Membre 13",
+        "is_external": false,
+        "user_id": null,
+        "roles": [
+          "Déséquipement"
+        ]
+      },
+      {
+        "name": "Membre 9",
+        "is_external": false,
+        "user_id": null,
+        "roles": [
+          "Équipement"
+        ]
+      },
+      {
+        "name": "Membre 10",
+        "is_external": true,
+        "user_id": null,
+        "roles": [
+          "Équipement"
+        ]
+      },
+      {
+        "name": "Membre 13",
+        "is_external": true,
+        "user_id": null,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "name": "Membre 9",
+        "is_external": true,
+        "user_id": null,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "name": "Membre 10",
+        "is_external": true,
+        "user_id": null,
+        "roles": [
+          "Participant"
+        ]
+      },
+      {
+        "name": "Membre 13",
+        "is_external": false,
+        "user_id": null,
+        "roles": [
+          "Participant"
+        ]
+      }
+    ],
+    "title": "Puits aux Lampes",
+    "photos": [],
+    "content": "Membre 21 et Membre 14 partent devant pour équiper la grotte en double, le grand luxe ! Fabrice suit de près les deux jeunes afin de superviser l’équipement. Les autres membres de l’équipe s’engagent dans le puits un par un et je ferme la marche.\n\nLa descente se déroule sans souci et tout le monde se retrouve dans le vaste espace de la salle principale. Nous partons en exploration à la recherche de la petite salle cachée. Nous avons d’abord cru l’avoir identifiée, mais il s'agissait d'une fausse piste.\n\nNous ne ménageons pas nos efforts et finissons par localiser le haut de cette salle, qui s'élève sur une quinzaine de mètres. Toutefois, nous ne trouvons pas l’entrée basse permettant d'y pénétrer. Nous devrons revenir !\n\nLa remontée s'effectue sans difficulté particulière. Jeronimo et Membre 16 déséquipent les deux voies sous la supervision bienveillante de Membre 14.",
+    "exit_time": "2026-09-20T13:49:52.337Z",
+    "cave_name": "Puits aux Lampes",
+    "depth": "-70 m",
+    "sortie_date": "2026-09-20",
+    "duration_minutes": 344,
+    "club": "Les Sus'Pendus",
+    "camp_id": "",
+    "author_id": null,
+    "region": "Namur",
+    "departure_time": "2026-09-20T08:05:42.498Z",
+    "last_modified": "2026-09-21T19:18:57.602Z",
+    "participants": "",
+    "grotte_id": "6aaa823cf9d7a99d3beb1abc",
+    "status": "published",
+    "discipline_id": "6ab3955123b6b6122bf5c5f5",
+    "discipline_name": "Spéléo",
+    "id": "6aaf8dc27abb32a2062f48c1",
+    "created_date": "2026-09-20T07:39:46.721000",
+    "updated_date": "2026-09-23T09:01:13.353000",
+    "created_by_id": null,
+    "is_sample": false,
+    "guest_participants": []
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Équipe Spéléo de Bruxelles",
+    "abbreviation": "ESB",
+    "active": true,
+    "id": "6ade44fcc0bd784e502d3a7a",
+    "created_date": "2026-10-25T18:05:48.638000",
+    "updated_date": "2026-10-25T18:05:48.638000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "name": "Les Suspendus",
+    "abbreviation": "",
+    "active": true,
+    "id": "6ac7dd3fd6a50cf3f9ea0e81",
+    "created_date": "2026-10-08T18:13:19.256000",
+    "updated_date": "2026-10-08T18:13:19.256000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "name": "Équipe Spéléo Centre Mons",
+    "abbreviation": "ESCM",
+    "active": true,
+    "id": "6ab5518f3a073542db9932c1",
+    "created_date": "2026-09-24T16:36:31.905000",
+    "updated_date": "2026-09-24T16:36:31.905000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "name": "Découverte du Milieu Souterrain",
+    "abbreviation": "DMS",
+    "active": true,
+    "id": "6ab3d15b4ba361f365212465",
+    "created_date": "2026-09-23T13:17:15.909000",
+    "updated_date": "2026-09-23T13:17:15.909000",
+    "created_by_id": null,
+    "is_sample": false
+  }
+]

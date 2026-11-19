@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Doubs 2026",
+    "location": null,
+    "start_date": "2026-10-25",
+    "end_date": "2026-10-31",
+    "description": "",
+    "photos": [],
+    "country": "France",
+    "region": "Doubs",
+    "city": "",
+    "address": "",
+    "latitude": null,
+    "longitude": null,
+    "accommodation": "",
+    "contact": "",
+    "comments": "",
+    "tricount_url": "",
+    "visibility": "club",
+    "archived": false,
+    "closed": false,
+    "participants": [
+      {
+        "user_id": null,
+        "name": "Membre 10",
+        "display_name": "Membre 10",
+        "arrival_date": "2026-10-25",
+        "departure_date": "2026-10-31",
+        "comment": ""
+      },
+      {
+        "user_id": null,
+        "name": "Membre 13",
+        "display_name": "Membre 13",
+        "arrival_date": "2026-10-25",
+        "departure_date": "2026-10-31",
+        "comment": ""
+      },
+      {
+        "user_id": null,
+        "name": "Membre 9",
+        "display_name": "Membre 9",
+        "arrival_date": "2026-10-25",
+        "departure_date": "2026-10-31",
+        "comment": ""
+      },
+      {
+        "user_id": null,
+        "name": "Membre 10",
+        "display_name": "Membre 10",
+        "arrival_date": "2026-10-25",
+        "departure_date": "2026-10-31",
+        "comment": ""
+      },
+      {
+        "user_id": null,
+        "name": "Membre 13",
+        "display_name": "Membre 13",
+        "arrival_date": "2026-10-25",
+        "departure_date": "2026-10-31",
+        "comment": ""
+      },
+      {
+        "user_id": null,
+        "name": "Membre 9",
+        "display_name": "Membre 9",
+        "arrival_date": "2026-10-25",
+        "departure_date": "2026-10-31",
+        "comment": ""
+      },
+      {
+        "user_id": null,
+        "name": "Membre 10",
+        "display_name": "Membre 10",
+        "arrival_date": "2026-10-25",
+        "departure_date": "2026-10-31",
+        "comment": ""
+      },
+      {
+        "user_id": null,
+        "name": "Membre 13",
+        "display_name": "Membre 13",
+        "arrival_date": "2026-10-25",
+        "departure_date": "2026-10-31",
+        "comment": ""
+      }
+    ],
+    "guest_participants": [
+      {
+        "guest_id": "6ade451ff59ce8a8668c52c0",
+        "name": "Membre 11",
+        "first_name": "Membre 20",
+        "last_name": "",
+        "display_name": "",
+        "club_id": "6ade44fcc0bd784e502d3a7a",
+        "club_name": "Équipe Spéléo de Bruxelles",
+        "dms": false,
+        "arrival_date": "2026-10-25",
+        "departure_date": "2026-10-31",
+        "comment": "",
+        "user_id": null
+      },
+      {
+        "guest_id": "6ade451013645156bc4880e1",
+        "name": "Membre 12",
+        "first_name": "Membre 18",
+        "last_name": "",
+        "display_name": "",
+        "club_id": "6ade44fcc0bd784e502d3a7a",
+        "club_name": "Équipe Spéléo de Bruxelles",
+        "dms": false,
+        "arrival_date": "2026-10-25",
+        "departure_date": "2026-10-31",
+        "comment": "",
+        "user_id": null
+      }
+    ],
+    "discipline_ids": [
+      "6ab3955123b6b6122bf5c5f5"
+    ],
+    "discipline_names": [
+      "Spéléo"
+    ],
+    "id": "6aae296c870dd2d96b3aea0b",
+    "created_date": "2026-09-19T06:19:24.036000",
+    "updated_date": "2026-10-30T14:07:11.276000",
+    "created_by_id": null,
+    "is_sample": false
+  }
+]

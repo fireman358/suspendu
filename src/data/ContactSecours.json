@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Contact secours 1",
+    "role": "CT Doubs adjoint",
+    "kind": "",
+    "phone": "112",
+    "phone_alt": "",
+    "country": "France",
+    "region": "Doubs",
+    "details": "",
+    "order": 0,
+    "id": "6ae4daee29845ee1e4b8c059",
+    "created_date": "2026-10-30T17:59:10.204000",
+    "updated_date": "2026-10-30T17:59:10.204000",
+    "created_by_id": null,
+    "is_sample": false
+  },
+  {
+    "name": "Contact secours 2",
+    "role": "CT Doubs",
+    "kind": "",
+    "phone": "112",
+    "phone_alt": "",
+    "country": "France",
+    "region": "Doubs",
+    "details": "",
+    "order": 0,
+    "id": "6ae4d9a79c61d8d04e9c2add",
+    "created_date": "2026-10-30T17:53:43.648000",
+    "updated_date": "2026-10-30T17:53:43.648000",
+    "created_by_id": null,
+    "is_sample": false
+  }
+]

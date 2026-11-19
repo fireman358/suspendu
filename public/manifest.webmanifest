@@ -1,0 +1,26 @@
+{
+  "name": "Les Sus'Pendus — Espace du club",
+  "short_name": "Sus'Pendus",
+  "description": "Sorties, matériel, topos, camps et carnet personnel du club de spéléologie Les Sus'Pendus.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08080a",
+  "theme_color": "#08080a",
+  "icons": [
+    {
+      "src": "./images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
