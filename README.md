@@ -83,8 +83,19 @@ tombait à 2,3:1).
 
 ## Déploiement
 
-Pousser sur `main` déclenche `.github/workflows/deploy.yml` : build Vite puis publication sur
-GitHub Pages (une fois Pages activé sur le dépôt, source « GitHub Actions »).
+**GitHub Pages** — pousser sur `main` déclenche `.github/workflows/deploy.yml` : build Vite puis
+publication (Pages doit être réglé sur « GitHub Actions »).
+
+**Cloudflare Workers** — `wrangler.toml` publie `./dist` comme site statique :
+
+```bash
+npm run build
+npx wrangler deploy
+```
+
+> ⚠️ Wrangler exige **Vite ≥ 6** pour auto-configurer un projet Vite (l'erreur
+> « cannot be automatically configured » venait de Vite 5.4). Le projet est en Vite 6 depuis,
+> et `wrangler` est épinglé en dépendance de dev pour éviter les sauts de version.
 
 ## Limites assumées
 

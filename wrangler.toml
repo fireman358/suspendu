@@ -1,0 +1,9 @@
+# Déploiement Cloudflare Workers — site statique (pas de Worker exécuté au runtime).
+# `npm run build` produit ./dist, que wrangler publie tel quel.
+name = "suspendu"
+compatibility_date = "2026-11-19"
+
+[assets]
+directory = "./dist"
+# L'app utilise un routeur en hash : toutes les URLs réelles pointent vers index.html.
+not_found_handling = "single-page-application"
